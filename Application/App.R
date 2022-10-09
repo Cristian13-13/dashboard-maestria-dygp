@@ -1,3 +1,4 @@
+#Aplicación desarrollada por: Cristian Barrera
 #token='A20E46EB3C35EB4D8A9F21AA7E899AAC'
 #Archivos de UI
 source("ui.R")
